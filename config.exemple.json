@@ -1,0 +1,12 @@
+{
+    "webhook": {
+        "id": "id do webhook",
+        "token": "token do webhook"
+    },
+    "database": {
+        "url": "url da mongo"
+    },
+    "weather": {
+        "localização": "sua cidade"
+    }
+}
