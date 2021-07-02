@@ -28,7 +28,7 @@ const mongo = model("temp", Data);
 
 
 setInterval(() => {
-    weather.find({
+    find({
         search: config.weather.localização,
         degreeType: "C"
     }, function(err, result) {
