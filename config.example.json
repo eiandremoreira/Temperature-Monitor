@@ -1,0 +1,12 @@
+{
+    "webhook": {
+        "id": "id do webhook para enviar mudanças de clima",
+        "token": "token do webhook para enviar mudanças de clima"
+    },
+    "database": {
+        "url": "URL do MongoDB para guardar as últimas temperaturas"
+    },
+    "weather": {
+        "localização": "sua cidade"
+    }
+}
