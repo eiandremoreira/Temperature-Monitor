@@ -39,7 +39,7 @@ setInterval(() => {
             id: 1
         }, async (err, data) => {
 
-            var current = result[0].current;
+            let current = result[0].current;
 
             if (!data) {
                 new mongo({
