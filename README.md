@@ -5,7 +5,9 @@ Apenas um simples webhook que te envia atualizações sobre a temperatura em uma
 ## Dependencias utilizadas:
 
 `discord.js` - **Versão: 12.5.3**
+
 `mongoose` - **Versão: 5.13.0**
+
 `weather-js` - **Versão: 2.0.0**
 
 ## Pra que isso foi feito ?
